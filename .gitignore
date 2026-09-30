@@ -1,9 +1,10 @@
 .ipynb_checkpoints
 __pycache__
 .DS_Store
-.env*
 .venv/
 logs/
 .pageindex/
 dist/
 /results/
+config.bat
+node_modules
