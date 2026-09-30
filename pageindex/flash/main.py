@@ -7,6 +7,10 @@ into the JSON shape that ``run_pageindex.py`` writes.
 
 from __future__ import annotations
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import json
 import re
 import unicodedata
